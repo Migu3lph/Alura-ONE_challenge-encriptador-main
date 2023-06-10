@@ -192,7 +192,10 @@ function copy() {
 function paste() {
     navigator.clipboard
         .readText()
-        .then((clipText) => (input.value = clipText));
+        .then((clipText) => {
+            input.value = clipText;
+            desencrypt();
+        });
 }
 
 button.forEach(element => element.addEventListener("click", (event) => {
