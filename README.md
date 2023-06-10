@@ -7,6 +7,7 @@ Este proyecto es parte de un curso dictado por Alura y Oracle Next Education
 El encriptador es un trabajo complejo que permite generar una versión encriptada de un texto dado. Esta versión encriptada puede ser copiada y utilizada posteriormente. Sin embargo, es importante destacar que el encriptador no ofrece seguridad para contraseñas ni privacidad.
 
 El proyecto se desarrolló en dos modos: light y dark. El modo light presenta una interfaz clara y brillante, mientras que el modo dark ofrece una apariencia más oscura y elegante. Además, se incluye un icono animado del sol y la luna, diseñados en estilo pixel art, para representar los modos light y dark respectivamente.
+![presentacion](https://github.com/Migu3lph/Alura-ONE_challenge-encriptador-main/assets/128015870/f5c31ca2-cafb-4c04-a8c4-a5cb8c812fb1)
 
 Puedes ingresar cualquier texto en el campo de entrada para obtener su versión encriptada. También puedes pegar un texto previamente encriptado para desencriptarlo y volverlo a su estado original.
 
